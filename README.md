@@ -1,3 +1,4 @@
+<!-- hide this block due to useless for now
 <div id="body" align="center">
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -5,13 +6,10 @@
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300"/>
 </div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=artem-karaman&style=flat-square&color=blue" alt=""/>
-</div>
-
----
+-->
 ### About me:</br>
 - I am cross platform mobile developer [Unity and Xamarin]
+
 
 ---
 
@@ -34,6 +32,11 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-karaman&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=artem-karaman&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--
 **artem-karaman/artem-karaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
