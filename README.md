@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=artem-karaman&style=flat-square&color=blue" alt=""/>
 </div>
 
-
 ---
 ### About me:</br>
 - I am cross platform mobile developer [Unity and Xamarin]
@@ -27,6 +26,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="csharp" width="40" height="40"/>
     
 </div>
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artem-karaman&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **artem-karaman/artem-karaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
