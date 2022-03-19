@@ -1,18 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+<div id="body" align="center">
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300"/>
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=artem-karaman&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="body" align="center">
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div id="about me" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+
 
 ---
 ### About me:</br>
