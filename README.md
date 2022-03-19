@@ -31,7 +31,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-karaman&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-karaman&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=artem-karaman&style=flat-square&color=blue" alt=""/>
