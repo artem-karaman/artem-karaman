@@ -14,7 +14,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div id="languages and toools" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="csharp" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" alt="csharp" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -27,14 +27,21 @@
 </div>
 
 ---
+<div id="Top Langs" align="center">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-karaman&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+    
+</div>    
+
 ---
+<div id="github_streak" align="center">
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artem-karaman&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
+</div>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=artem-karaman&style=flat-square&color=blue" alt=""/>
