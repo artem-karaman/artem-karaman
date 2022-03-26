@@ -8,8 +8,9 @@
 </div>
 -->
 ### About me:</br>
-- I am cross platform mobile developer [Unity and Xamarin]
-
+- 🔭 I’m currently working on 2d mobile games
+- 🌱 I’m currently learning unity 3d
+- 📫 How to reach me: net552011@gmail.com
 
 ---
 
