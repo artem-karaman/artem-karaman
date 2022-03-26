@@ -9,7 +9,6 @@
 -->
 ### About me:</br>
 - 🔭 I’m currently working on 2d mobile games
-- 🌱 I’m currently learning unity 3d
 - 📫 How to reach me: net552011@gmail.com
 
 ---
