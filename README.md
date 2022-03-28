@@ -24,6 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg" alt="csharp" width="40" height="40"/>
+    
 </div>
 
 ---
