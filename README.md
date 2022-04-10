@@ -1,4 +1,6 @@
 <!-- hide this block due to useless for now
+
+
 <div id="body" align="center">
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -7,6 +9,15 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300"/>
 </div>
 -->
+
+
+<div id="title" align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=3FFF6D&center=true&vCenter=true&lines=Mobile+Game+Developer)](https://git.io/typing-svg)
+    
+</div>
+
+
 ### About me:</br>
 - 🔭 I’m currently working on 2d mobile games
 - 📫 How to reach me: net552011@gmail.com
